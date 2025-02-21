@@ -1,0 +1,29 @@
+.todo-item {
+    transition: all 0.3s ease;
+}
+
+.todo-item:hover {
+    background-color: #f8f9fa;
+}
+
+.todo-item.completed {
+    background-color: #f8f9fa;
+}
+
+.todo-item.completed .todo-title {
+    text-decoration: line-through;
+    color: #6c757d;
+}
+
+.todo-actions {
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.todo-item:hover .todo-actions {
+    opacity: 1;
+}
+
+.loading-spinner {
+    display: none;
+}

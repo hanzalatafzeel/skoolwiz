@@ -1,0 +1,79 @@
+2025-02-21 19:09:15,177 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-21 19:09:15,178 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-21 19:09:15,182 - werkzeug - INFO -  * Restarting with stat
+2025-02-21 19:09:16,162 - werkzeug - WARNING -  * Debugger is active!
+2025-02-21 19:09:16,179 - werkzeug - INFO -  * Debugger PIN: 865-654-072
+2025-02-21 19:09:21,444 - app.logging_config - INFO - [2025-02-21 19:09:21] GET / - IP: 127.0.0.1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+2025-02-21 19:09:21,480 - werkzeug - INFO - 127.0.0.1 - - [21/Feb/2025 19:09:21] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-02-21 19:09:21,763 - werkzeug - INFO - 127.0.0.1 - - [21/Feb/2025 19:09:21] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-21 19:09:21,822 - werkzeug - INFO - 127.0.0.1 - - [21/Feb/2025 19:09:21] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-02-21 19:09:22,115 - werkzeug - INFO - 127.0.0.1 - - [21/Feb/2025 19:09:22] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-21 19:11:01,899 - werkzeug - INFO -  * Detected change in 'D:\\IITM\\webops\\IITM\\new\\web\\skoolwiz\\skoolwiz\\config.py', reloading
+2025-02-21 19:11:02,206 - werkzeug - INFO -  * Restarting with stat
+2025-02-21 19:11:03,436 - werkzeug - WARNING -  * Debugger is active!
+2025-02-21 19:11:03,445 - werkzeug - INFO -  * Debugger PIN: 865-654-072
+2025-02-21 19:11:18,978 - werkzeug - INFO -  * Detected change in 'D:\\IITM\\webops\\IITM\\new\\web\\skoolwiz\\skoolwiz\\app\\__init__.py', reloading
+2025-02-21 19:11:19,092 - werkzeug - INFO -  * Restarting with stat
+2025-02-21 19:11:20,010 - werkzeug - WARNING -  * Debugger is active!
+2025-02-21 19:11:20,017 - werkzeug - INFO -  * Debugger PIN: 865-654-072
+2025-02-21 19:11:28,264 - werkzeug - INFO -  * Detected change in 'D:\\IITM\\webops\\IITM\\new\\web\\skoolwiz\\skoolwiz\\app\\models.py', reloading
+2025-02-21 19:11:28,398 - werkzeug - INFO -  * Restarting with stat
+2025-02-21 19:11:30,018 - werkzeug - WARNING -  * Debugger is active!
+2025-02-21 19:11:30,024 - werkzeug - INFO -  * Debugger PIN: 865-654-072
+2025-02-21 19:11:38,355 - werkzeug - INFO -  * Detected change in 'D:\\IITM\\webops\\IITM\\new\\web\\skoolwiz\\skoolwiz\\app\\logging_config.py', reloading
+2025-02-21 19:11:38,536 - werkzeug - INFO -  * Restarting with stat
+2025-02-21 19:11:39,538 - werkzeug - WARNING -  * Debugger is active!
+2025-02-21 19:11:39,545 - werkzeug - INFO -  * Debugger PIN: 865-654-072
+2025-02-21 19:11:52,961 - werkzeug - INFO -  * Detected change in 'D:\\IITM\\webops\\IITM\\new\\web\\skoolwiz\\skoolwiz\\app\\routes.py', reloading
+2025-02-21 19:11:53,073 - werkzeug - INFO -  * Restarting with stat
+2025-02-21 19:11:54,115 - werkzeug - WARNING -  * Debugger is active!
+2025-02-21 19:11:54,119 - werkzeug - INFO -  * Debugger PIN: 865-654-072
+2025-02-21 19:12:52,210 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-21 19:12:52,210 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-21 19:12:52,213 - werkzeug - INFO -  * Restarting with stat
+2025-02-21 19:12:53,628 - werkzeug - WARNING -  * Debugger is active!
+2025-02-21 19:12:53,636 - werkzeug - INFO -  * Debugger PIN: 865-654-072
+2025-02-21 19:12:55,249 - app.logging_config - INFO - [2025-02-21 19:12:55] GET / - IP: 127.0.0.1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+2025-02-21 19:12:55,605 - app.logging_config - INFO - Response Status: N/A
+2025-02-21 19:12:55,606 - werkzeug - INFO - 127.0.0.1 - - [21/Feb/2025 19:12:55] "GET / HTTP/1.1" 200 -
+2025-02-21 19:12:56,211 - werkzeug - INFO - 127.0.0.1 - - [21/Feb/2025 19:12:56] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-02-21 19:12:56,215 - werkzeug - INFO - 127.0.0.1 - - [21/Feb/2025 19:12:56] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-02-21 19:12:56,469 - app.logging_config - INFO - [2025-02-21 19:12:56] GET /todos - IP: 127.0.0.1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+2025-02-21 19:12:56,491 - app.logging_config - INFO - Response Status: 200
+2025-02-21 19:12:56,496 - werkzeug - INFO - 127.0.0.1 - - [21/Feb/2025 19:12:56] "GET /todos HTTP/1.1" 200 -
+2025-02-21 19:12:57,573 - werkzeug - INFO - 127.0.0.1 - - [21/Feb/2025 19:12:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-21 19:13:04,135 - app.logging_config - INFO - [2025-02-21 19:13:04] POST /todos - IP: 127.0.0.1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+2025-02-21 19:13:04,159 - app.logging_config - INFO - Response Status: N/A
+2025-02-21 19:13:04,160 - werkzeug - INFO - 127.0.0.1 - - [21/Feb/2025 19:13:04] "[35m[1mPOST /todos HTTP/1.1[0m" 201 -
+2025-02-21 19:13:04,176 - app.logging_config - INFO - [2025-02-21 19:13:04] GET /todos - IP: 127.0.0.1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+2025-02-21 19:13:04,179 - app.logging_config - INFO - Response Status: 200
+2025-02-21 19:13:04,180 - werkzeug - INFO - 127.0.0.1 - - [21/Feb/2025 19:13:04] "GET /todos HTTP/1.1" 200 -
+2025-02-21 19:13:08,650 - app.logging_config - INFO - [2025-02-21 19:13:08] POST /todos - IP: 127.0.0.1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+2025-02-21 19:13:09,200 - app.logging_config - INFO - Response Status: N/A
+2025-02-21 19:13:09,200 - werkzeug - INFO - 127.0.0.1 - - [21/Feb/2025 19:13:09] "[35m[1mPOST /todos HTTP/1.1[0m" 201 -
+2025-02-21 19:13:09,212 - app.logging_config - INFO - [2025-02-21 19:13:09] GET /todos - IP: 127.0.0.1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+2025-02-21 19:13:09,214 - app.logging_config - INFO - Response Status: 200
+2025-02-21 19:13:09,215 - werkzeug - INFO - 127.0.0.1 - - [21/Feb/2025 19:13:09] "GET /todos HTTP/1.1" 200 -
+2025-02-21 19:13:10,690 - app.logging_config - INFO - [2025-02-21 19:13:10] PUT /todos/1 - IP: 127.0.0.1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+2025-02-21 19:13:10,721 - app.logging_config - INFO - Response Status: 200
+2025-02-21 19:13:10,722 - werkzeug - INFO - 127.0.0.1 - - [21/Feb/2025 19:13:10] "PUT /todos/1 HTTP/1.1" 200 -
+2025-02-21 19:13:10,734 - app.logging_config - INFO - [2025-02-21 19:13:10] GET /todos - IP: 127.0.0.1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+2025-02-21 19:13:10,736 - app.logging_config - INFO - Response Status: 200
+2025-02-21 19:13:10,737 - werkzeug - INFO - 127.0.0.1 - - [21/Feb/2025 19:13:10] "GET /todos HTTP/1.1" 200 -
+2025-02-21 19:13:12,404 - app.logging_config - INFO - [2025-02-21 19:13:12] GET /todos/1 - IP: 127.0.0.1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+2025-02-21 19:13:12,406 - app.logging_config - INFO - Response Status: 200
+2025-02-21 19:13:12,406 - werkzeug - INFO - 127.0.0.1 - - [21/Feb/2025 19:13:12] "GET /todos/1 HTTP/1.1" 200 -
+2025-02-21 19:14:00,553 - app.logging_config - INFO - [2025-02-21 19:14:00] PUT /todos/1 - IP: 127.0.0.1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+2025-02-21 19:14:00,557 - app.logging_config - INFO - Response Status: 200
+2025-02-21 19:14:00,558 - werkzeug - INFO - 127.0.0.1 - - [21/Feb/2025 19:14:00] "PUT /todos/1 HTTP/1.1" 200 -
+2025-02-21 19:14:00,569 - app.logging_config - INFO - [2025-02-21 19:14:00] GET /todos - IP: 127.0.0.1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+2025-02-21 19:14:00,571 - app.logging_config - INFO - Response Status: 200
+2025-02-21 19:14:00,572 - werkzeug - INFO - 127.0.0.1 - - [21/Feb/2025 19:14:00] "GET /todos HTTP/1.1" 200 -
+2025-02-21 19:14:05,514 - app.logging_config - INFO - [2025-02-21 19:14:05] POST /todos - IP: 127.0.0.1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+2025-02-21 19:14:05,522 - app.logging_config - INFO - Response Status: N/A
+2025-02-21 19:14:05,523 - werkzeug - INFO - 127.0.0.1 - - [21/Feb/2025 19:14:05] "[35m[1mPOST /todos HTTP/1.1[0m" 201 -
+2025-02-21 19:14:05,535 - app.logging_config - INFO - [2025-02-21 19:14:05] GET /todos - IP: 127.0.0.1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+2025-02-21 19:14:05,537 - app.logging_config - INFO - Response Status: 200
+2025-02-21 19:14:05,538 - werkzeug - INFO - 127.0.0.1 - - [21/Feb/2025 19:14:05] "GET /todos HTTP/1.1" 200 -
